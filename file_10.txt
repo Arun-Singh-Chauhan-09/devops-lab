@@ -1,0 +1,2 @@
+This is the 10th text file
+This is to test diff
